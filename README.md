@@ -1,2 +1,2 @@
 # HexBlinker
-A hexagonal shaped keychain led blinker using a 555 timer
+A hexagonal shaped keychain led blinker using 555 LED Chaser circuit

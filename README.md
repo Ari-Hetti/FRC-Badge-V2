@@ -5,7 +5,7 @@ I built this project because I want to integrate my electronic skills with a maj
 
 The main use case for this project is to connect to backpack using the hole in the top. If I want to power it I can just plug into any usb-c leaving me an easy way to power it on the go
 
-This is V2 redesign from my first design which was built as part of Hackclub Solder
+This is V2 redesign from my first design which was built as part of Hackclub Solder. [FRC_Badge](https://github.com/Ari-Hetti/FRC_Badge)
 
 Built with help from Hackclub Blueprint
 
@@ -32,3 +32,11 @@ Built with help from Hackclub Blueprint
 | LEDs | 10 |
 | 1x1 Female Connector| 1 |
 | 6p Power USB-C connector | 1 |
+
+## Tools
+
+This project uses:
+
+- [KiCad](https://www.kicad.org/)
+- [Hack Club Blueprint Blinky Tutorial](https://blueprint.hackclub.com/starter-projects/blinky)
+

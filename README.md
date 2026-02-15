@@ -1,6 +1,12 @@
 # FRC Badge V2
 A small keychain pcb in the shape of a hexagon that lights up LEDs using a 555 chase circuit and is powered by usb-c
 
+I built this project because I want to integrate my electronic skills with a major part of my life - FRC. I also wanted a cool keychain to have and thought might as well build it myself
+
+The main use case for this project is to connect to backpack using the hole in the top. If I want to power it I can just plug into any usb-c leaving me an easy way to power it on the go
+
+This is V2 redesign from my first design which was built as part of Hackclub Solder
+
 Built with help from Hackclub Blueprint
 
 # Contact
